@@ -36,7 +36,9 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- [1.2 Drawing eng.pdf](https://github.com/Thanikasreeb/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./files/11096470/1.2.Drawing.eng.pdf)
+ 
+ ![1 2 Drawing eng (1)_page-0001](https://user-images.githubusercontent.com/119557910/229414097-90169802-f977-4323-8788-275746b40db6.jpg)
+
 
  
  ## RESULT
